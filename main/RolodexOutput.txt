@@ -1,0 +1,380 @@
+ welcome to Rolodex
+
+  Reading in cards from file
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:list
+First Name: Adolf
+Last Name: Coors
+Occupation: Beer Manufacturer
+Address: Boston MA
+Phone: 555-2337
+
+First Name: Tony
+Last Name: Hansen
+Occupation: Writer
+Address: 12 E. St. NY,NY 33333
+Phone: 555-9999
+
+First Name: Alonza
+Last Name: Heard
+Occupation: Mechanic
+Address: 123 Anyplace Ave Malden,MA
+Phone: 555-5678
+
+First Name: Alan
+Last Name: Lupine
+Occupation: Vet
+Address: 1 Bigelow Ave. Lawrence,MA
+Phone: 555-7654
+
+First Name: Fred
+Last Name: Milton
+Occupation: Sales
+Address: 12 Freedom Way Nashua,NH
+Phone: 555-9981
+
+First Name: Seymour
+Last Name: Papert
+Occupation: Lego Professor
+Address: MIT
+Phone: 555-1111
+
+First Name: Jewel
+Last Name: Proverb
+Occupation: Landscaper
+Address: 34 Washington St. Waltham,MA
+Phone: 555-3333
+
+First Name: Paul
+Last Name: Revere
+Occupation: Radical Revolutionary
+Address: 45 Commonwealth Ave. Boston,MA
+Phone: 555-1776
+
+First Name: Jen
+Last Name: Reyes
+Occupation: Graphic artist
+Address: 325 Oak Rd Wilmington,MA
+Phone: 555-4950
+
+First Name: Jon
+Last Name: Smyth
+Occupation: Computer Hardware
+Address: CMU Computer Services Pittsburgh,PA
+Phone: 555-1324
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:search
+please enter first name:Alonza
+please enter last name:Heard
+
+found:
+First Name: Alonza
+Last Name: Heard
+Occupation: Mechanic
+Address: 123 Anyplace Ave Malden,MA
+Phone: 555-5678
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:view
+First Name: Alonza
+Last Name: Heard
+Occupation: Mechanic
+Address: 123 Anyplace Ave Malden,MA
+Phone: 555-5678
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:flip
+First Name: Alan
+Last Name: Lupine
+Occupation: Vet
+Address: 1 Bigelow Ave. Lawrence,MA
+Phone: 555-7654
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:search
+please enter first name:Jon
+please enter last name:Smyth
+
+found:
+First Name: Jon
+Last Name: Smyth
+Occupation: Computer Hardware
+Address: CMU Computer Services Pittsburgh,PA
+Phone: 555-1324
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:remove
+
+ Current card is :
+First Name: Jon
+Last Name: Smyth
+Occupation: Computer Hardware
+Address: CMU Computer Services Pittsburgh,PA
+Phone: 555-1324
+
+
+Do you really want to delete this?:
+enter Y (for Yes) or N (for No):Y
+First Name: Jon
+Last Name: Smyth
+Occupation: Computer Hardware
+Address: CMU Computer Services Pittsburgh,PA
+Phone: 555-1324
+
+deleted
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:view
+First Name: Adolf
+Last Name: Coors
+Occupation: Beer Manufacturer
+Address: Boston MA
+Phone: 555-2337
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:add
+please enter first name:Matthew
+please enter last name:Williams
+please enter occupation:Teacher
+please enter address:69 Main st. Acton, MA
+please enter phone:555-9330
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:view
+First Name: Matthew
+Last Name: Williams
+Occupation: Teacher
+Address: 69 Main st. Acton, MA
+Phone: 555-9330
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:flip
+First Name: Adolf
+Last Name: Coors
+Occupation: Beer Manufacturer
+Address: Boston MA
+Phone: 555-2337
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:remove
+
+ Current card is :
+First Name: Adolf
+Last Name: Coors
+Occupation: Beer Manufacturer
+Address: Boston MA
+Phone: 555-2337
+
+
+Do you really want to delete this?:
+enter Y (for Yes) or N (for No):Y
+First Name: Adolf
+Last Name: Coors
+Occupation: Beer Manufacturer
+Address: Boston MA
+Phone: 555-2337
+
+deleted
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:view
+First Name: Tony
+Last Name: Hansen
+Occupation: Writer
+Address: 12 E. St. NY,NY 33333
+Phone: 555-9999
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:add
+please enter first name:Jim
+please enter last name:Butler
+please enter occupation:contractor
+please enter address:33 Cedar Lane Concord, MA
+please enter phone:5558535
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:view
+First Name: Jim
+Last Name: Butler
+Occupation: contractor
+Address: 33 Cedar Lane Concord, MA
+Phone: 5558535
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:search
+please enter first name:Jewel
+please enter last name:Proverb
+
+found:
+First Name: Jewel
+Last Name: Proverb
+Occupation: Landscaper
+Address: 34 Washington St. Waltham,MA
+Phone: 555-3333
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:view
+First Name: Jewel
+Last Name: Proverb
+Occupation: Landscaper
+Address: 34 Washington St. Waltham,MA
+Phone: 555-3333
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:remove
+
+ Current card is :
+First Name: Jewel
+Last Name: Proverb
+Occupation: Landscaper
+Address: 34 Washington St. Waltham,MA
+Phone: 555-3333
+
+
+Do you really want to delete this?:
+enter Y (for Yes) or N (for No):Y
+First Name: Jewel
+Last Name: Proverb
+Occupation: Landscaper
+Address: 34 Washington St. Waltham,MA
+Phone: 555-3333
+
+deleted
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:view
+First Name: Paul
+Last Name: Revere
+Occupation: Radical Revolutionary
+Address: 45 Commonwealth Ave. Boston,MA
+Phone: 555-1776
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:add
+please enter first name:Jim
+please enter last name:Butler
+please enter occupation:consultant
+please enter address:22 Minuteman St. Lexington, MA
+please enter phone:555-4422
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:add
+please enter first name:Dan
+please enter last name:Butler
+please enter occupation:Chauffeur
+please enter address:68 Willow St. Westfield, MA
+please enter phone:555-8493
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:list
+First Name: Dan
+Last Name: Butler
+Occupation: Chauffeur
+Address: 68 Willow St. Westfield, MA
+Phone: 555-8493
+
+First Name: Jim
+Last Name: Butler
+Occupation: contractor
+Address: 33 Cedar Lane Concord, MA
+Phone: 5558535
+
+First Name: Jim
+Last Name: Butler
+Occupation: consultant
+Address: 22 Minuteman St. Lexington, MA
+Phone: 555-4422
+
+First Name: Tony
+Last Name: Hansen
+Occupation: Writer
+Address: 12 E. St. NY,NY 33333
+Phone: 555-9999
+
+First Name: Alonza
+Last Name: Heard
+Occupation: Mechanic
+Address: 123 Anyplace Ave Malden,MA
+Phone: 555-5678
+
+First Name: Alan
+Last Name: Lupine
+Occupation: Vet
+Address: 1 Bigelow Ave. Lawrence,MA
+Phone: 555-7654
+
+First Name: Fred
+Last Name: Milton
+Occupation: Sales
+Address: 12 Freedom Way Nashua,NH
+Phone: 555-9981
+
+First Name: Seymour
+Last Name: Papert
+Occupation: Lego Professor
+Address: MIT
+Phone: 555-1111
+
+First Name: Paul
+Last Name: Revere
+Occupation: Radical Revolutionary
+Address: 45 Commonwealth Ave. Boston,MA
+Phone: 555-1776
+
+First Name: Jen
+Last Name: Reyes
+Occupation: Graphic artist
+Address: 325 Oak Rd Wilmington,MA
+Phone: 555-4950
+
+First Name: Matthew
+Last Name: Williams
+Occupation: Teacher
+Address: 69 Main st. Acton, MA
+Phone: 555-9330
+
+please enter one of the commands:
+list, view, flip, add, remove, search, quit
+
+command:quit
+Ciao!
